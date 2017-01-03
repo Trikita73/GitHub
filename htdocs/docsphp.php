@@ -10,3 +10,6 @@
 =======
 	echo "Branch Master";
 >>>>>>> master
+
+
+	echo " push + commit";
